@@ -17,4 +17,4 @@ Customer Growth Patterns: Understand how the customer base has evolved, aiding m
 
 What sets this project apart is its interactivity and simplicity—everything is neatly designed into one cohesive interface. All data points can be filtered and explored without writing a single line of code, making it accessible even to non-technical users. The dashboard also maintains visual consistency using matching color palettes, neat spacing, and a clean font style for better readability.
 
-This project demonstrates how Excel can go beyond spreadsheets and serve as a powerful dashboarding tool. Whether used by sales managers, analysts, or executives, this dashboard enables smarter, faster decision-making using real-time data insights.
+This project demonstrates how Excel can go beyond spreadsheets and serve as a powerful dashboarding tool. Whether used by sales managers, analysts, or executives, this dashboard enables smarter, faster decision-making using real-time datas insights.
